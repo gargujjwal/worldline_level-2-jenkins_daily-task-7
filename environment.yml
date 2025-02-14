@@ -1,7 +1,0 @@
-name: daily-task-7
-channels:
-  - https://repo.anaconda.com/pkgs/main
-  - https://repo.anaconda.com/pkgs/r
-dependencies:
-  - flask
-  - python=3.10
